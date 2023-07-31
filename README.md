@@ -1,6 +1,6 @@
 
 
-HOW TO RUN APP! Still WIP, but he can still perform a large part of the functions
+HOW TO RUN APP! Still WIP
 
 BUILD - npm install - START - npm start
 
